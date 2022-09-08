@@ -1,0 +1,12 @@
+.background {
+    background-color: aqua;
+}
+
+.text,
+li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-header {
+    text-align: center;
+}
